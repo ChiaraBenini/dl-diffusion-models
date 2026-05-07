@@ -18,5 +18,5 @@ Implementation of a variance-preserving diffusion model using stochastic differe
 - Fourier time embeddings
 - Classifier guidance
 
-## Run
+## Credits
 Code from assignment, partially authored by me. 
